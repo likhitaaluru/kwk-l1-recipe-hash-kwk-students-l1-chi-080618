@@ -68,6 +68,6 @@ perfect_10_recipe={
 
 def number_ingredients(perfect_10_recipe)
 puts "You need #{x}."
-#   end
-# end
-# amounts(perfect_10_recipe)
+  end
+end
+amounts(perfect_10_recipe)
