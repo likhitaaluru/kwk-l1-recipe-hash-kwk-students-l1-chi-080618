@@ -1,14 +1,14 @@
 perfect_10_recipe={
-  "almond flour"=>"2 cups",
-  "gluten freewhole oats"=>"1 cup",
-  "kosher salt"=>"1/2 teaspoon",
-  "baking powder"=>"1/2 teaspoon",
-  "baking soda"=>"1/4 teaspoon",
-  "Xanthan Gum"=>"1/2 teaspoon",
-  "slivered almonds, lightly toasted"=>"1/4 cup",
-  "mini dark chocolate chips"=>"3/4 cup",
-  "olive oil"=>"1/2 cup",
-  "agave"=>"1/4 cup"
+  :almond_flour =>"2 cups",
+  :gluten_freewhole_oats =>"1 cup",
+  :kosher_salt=>"1/2 teaspoon",
+  :baking powder=>"1/2 teaspoon",
+  :baking soda=>"1/4 teaspoon",
+  :Xanthan Gum=>"1/2 teaspoon",
+  :slivered almonds, lightly toasted=>"1/4 cup",
+  :mini dark chocolate chips=>"3/4 cup",
+  :olive oil=>"1/2 cup",
+  :agave=>"1/4 cup"
 }
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
