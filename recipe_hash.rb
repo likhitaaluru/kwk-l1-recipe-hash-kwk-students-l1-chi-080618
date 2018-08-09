@@ -68,6 +68,5 @@ perfect_10_recipe={
 
 def number_ingredients(perfect_10_recipe)
   puts perfect_10_recipe.keys.count
-  end
 end
 number_ingredients(perfect_10_recipe)
