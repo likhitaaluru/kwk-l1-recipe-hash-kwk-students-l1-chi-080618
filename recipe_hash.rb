@@ -65,5 +65,9 @@ perfect_10_recipe={
 # amounts(perfect_10_recipe)
 
 #6: Return the number of ingredients in the `perfect_10_recipe` hash.
+
 def number_ingredients(perfect_10_recipe)
-end
+puts "You need #{x}."
+#   end
+# end
+# amounts(perfect_10_recipe)
