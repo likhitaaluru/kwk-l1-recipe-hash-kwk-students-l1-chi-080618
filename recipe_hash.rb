@@ -68,7 +68,7 @@ perfect_10_recipe={
 
 def number_ingredients(perfect_10_recipe)
   perfect_10_recipe.size = size
-  puts "#{size}"
+    puts "#{size}"
   end
 end
 number_ingredients(perfect_10_recipe)
